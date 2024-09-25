@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piedra Papel Tijera</string>
+    <string name="titleText">Piedra Papel o Tijera</string>
+    <string name="playerText">Tu</string>
+    <string name="cpuText">CPU</string>
+    <string name="rockButton">Piedra</string>
+    <string name="paperButton">Papel</string>
+    <string name="scissorButton">Tijera</string>
+    <string name="winText">Victoria</string>
+    <string name="defeatText">Derrota</string>
+    <string name="drawText">Empate</string>
+</resources>

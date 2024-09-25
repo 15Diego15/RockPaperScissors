@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="titleText">Rock Paper and Scissors</string>
+    <string name="playerText">You</string>
+    <string name="cpuText">NPC</string>
+    <string name="rockButton">Rock</string>
+    <string name="paperButton">Paper</string>
+    <string name="scissorButton">Scissor</string>
+    <string name="winText">Win</string>
+    <string name="defeatText">Defeat</string>
+    <string name="drawText">Draw</string>
+</resources>
